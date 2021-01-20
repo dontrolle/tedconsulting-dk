@@ -1,0 +1,160 @@
+baseURL = "https://tedconsulting.dk/"
+languageCode = "en-us"
+title = "TED Consulting - by Troels Egede Damgaard - Consulting Chief Architect"
+theme = "hugo-universal"
+
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    identifier="home"
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
+    weight = 2
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "LinkedIn"
+    url = "<a href='https://www.linkedin.com/in/troelsdamgaard/' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-linkedin'></i></a>"
+    pre = ""
+
+[[menu.topbar]]
+    weight = 2
+    name = "Twitter"
+    url = "<a href='http://twitter.com/dontrolle' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-twitter'></i></a>"
+    pre = ""
+
+[[menu.topbar]]
+    weight = 3
+    name = "Email"
+    url = "<script type='text/javascript'>gen_social_mail('hello#tedconsulting.dk')</script>"
+    pre = ""
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Troels Damgaard"
+    defaultKeywords = ["fintech", "consulting", "architect", "life", "pension"]
+    mainSections = ["blog"]
+    defaultDescription = "TED Consulting ApS - software architecture consulting for fintech and pension tech."
+
+    # Social media
+    twitter_site = "dontrolle" # the Twitter handle of your site (without the '@')
+    default_sharing_image = "img/sharing-default.png"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "red"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 50 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - register your account to https://formspree.io/register
+    # - login and create new form
+    # - set your form's endpoint url under 'formspree_action' below
+    # - upload the generated site to your server
+    # - test a dummy email yourself
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io endpoint url
+    formspree_action = "https://formspree.io/sample/of/endpoint"
+    contact_form_ajax = false
+
+    about_us = "<p>Troels Damgaard provides software consultancy services based on more than 12 years experience in the fintech and pension tech industry.</p>"
+    copyright = "Copyright TED Consulting ApS, all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 20th, 2021"
+
+    logo = "img/TED_logo1.png"
+    logo_small = "img/TED_logo1.png"
+    address = """<p class="text-uppercase"><strong>TED Consulting ApS</strong>
+        <br>Tudskærvej 10
+        <br>2720 Vanløse
+        <br>Denmark
+        <br>CVR: 41275995
+        </p>
+        <p>
+        <br><span class=text-uppercase>email: </span><script type="text/javascript"> 
+            gen_mail_to_link('troels','tedconsulting.dk');
+        </script><noscript><i>Enable javascript to view email</i></noscript>
+    </span>
+        <br><span class=text-uppercase>phone: +45 3025 6085</span>
+      </p>
+      """
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """"""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = false
+    tags = false
+    search = false
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = false
+    title = "Troels Damgaard"
+    subtitle = "bla bla bla"
