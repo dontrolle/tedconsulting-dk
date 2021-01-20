@@ -7,7 +7,7 @@ Contact
 
 Images
 
-* [ ] Fix logo-images
+* [ ] Fix logo-images - possible remove aliasing, and fix sizes
 * [ ] Smaller picture - try making it round
 
 Other 
