@@ -78,7 +78,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
+    formspree_action = "https://formspree.io/f/xgepdzwv"
     contact_form_ajax = false
 
     about_us = "<p>Troels Damgaard provides software consultancy services based on more than 12 years experience in the fintech and pension tech industry.</p>"
