@@ -79,7 +79,7 @@ paginate = 10
     #
     # Enable the contact form by entering your Formspree.io endpoint url
     formspree_action = "https://formspree.io/f/xgepdzwv"
-    contact_form_ajax = false
+    contact_form_ajax = true
 
     about_us = "<p>Troels Damgaard provides software consultancy services based on more than 12 years experience in the fintech and pension tech industry.</p>"
     copyright = "Copyright TED Consulting ApS, all rights reserved."
