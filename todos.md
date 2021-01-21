@@ -7,8 +7,9 @@ Contact
 
 Images
 
-* [ ] Fix logo-images - possible remove aliasing, and fix sizes
-* [ ] Make a smaller version of logo1 - possibly ask Lena to make it
+* [x] Fix logo-images - possible remove aliasing, and fix sizes (_improved a bit_)
+* [ ] Improve visuals of logo images
+* [ ] Consider making a smaller version of logo - possibly ask Lena to make it
 * [ ] Get better face-picture 
 * [x] Slight improvements to face pic
 
