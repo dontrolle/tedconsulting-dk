@@ -21,7 +21,7 @@ Images
 Other 
 
 * [x] Check that site looks ok in a few reasonable form-factors (seems that my wonderful face-pic is placed a bit weird in some form facts, it seems)
-* [ ] In broad view, the margins for the text and face picture are off; and the text is to wide
+* [x] In broad view, the margins for the text and face picture are off; and the text is to wide
 * [x] Possible increase font a bit. (_Not necessary, I think._)
 * [x] Setup custom 404 page -> /404.html 
 * [x] Fix 404 - (setup for IIS rather than via .htaccess)
