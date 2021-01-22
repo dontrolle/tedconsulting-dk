@@ -24,6 +24,7 @@ Other
 * [ ] In broad view, the margins for the text and face picture are off; and the text is to wide
 * [x] Possible increase font a bit. (_Not necessary, I think._)
 * [x] Setup custom 404 page -> /404.html 
+* [x] Fix 404 - (setup for IIS rather than via .htaccess)
 * [ ] Why the f... does the navbar move slightly from index to subpages?! Seems the navbar gets ~ 17 pixels s,slimmer on the frontpage  (in normal form factor)? Seems to have smth to do with sections on the front page? (If one is removed, the width is the same?!) (Sigh... Why am I a css noob...? )
 * [x] Lesser white margin under red background
 * [ ] Consider removing header "Contact form" 
