@@ -53,9 +53,9 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Troels Damgaard"
-    defaultKeywords = ["fintech", "consulting", "architect", "life", "pension"]
+    defaultKeywords = ["fintech", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader"]
     mainSections = ["blog"]
-    defaultDescription = "TED Consulting ApS - software architecture consulting for fintech and pension tech."
+    defaultDescription = "TED Consulting ApS - software consultancy services within the fintech and pension tech industry."
 
     # Social media
     twitter_site = "dontrolle" # the Twitter handle of your site (without the '@')
@@ -97,7 +97,7 @@ paginate = 10
         </p>
         <p>
         <br><span class=text-uppercase>email: </span><script type="text/javascript"> 
-            gen_mail_to_link('troels','tedconsulting.dk');
+            gen_mail_to_link('hello','tedconsulting.dk');
         </script><noscript><i>Enable javascript to view email</i></noscript>
     </span>
         <br><span class=text-uppercase>phone: +45 3025 6085</span>

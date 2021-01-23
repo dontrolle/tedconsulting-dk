@@ -12,7 +12,7 @@ Images
 * [ ] Make logo in scalable graphics
 * [ ] Consider making a smaller version of logo - possibly ask Lena to make it
 * [ ] Get professional me-picture w.o. soft-shell, etc.
-* [ ] Possible slight improvement to current picture would be to add a white frame
+* [x] Possible slight improvement to current picture would be to add a white frame
     - something like:     
         margin: 4px 0 0 4px;
         box-shadow: 0 0 0 4px #fff;
@@ -20,6 +20,7 @@ Images
 
 Other 
 
+* [ ] Reconstitute original style.red.css as much as possible and put my custom stuff in static/css/custom.css (yeah, I'm learning about Hugo...)
 * [x] Check that site looks ok in a few reasonable form-factors (seems that my wonderful face-pic is placed a bit weird in some form facts, it seems)
 * [x] In broad view, the margins for the text and face picture are off; and the text is to wide
 * [x] Possible increase font a bit. (_Not necessary, I think._)
