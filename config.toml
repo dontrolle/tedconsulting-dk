@@ -53,7 +53,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Troels Damgaard"
-    defaultKeywords = ["fintech", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader"]
+    defaultKeywords = ["fintech", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader", "Copenhagen", "Denmark"]
     mainSections = ["blog"]
     defaultDescription = "TED Consulting ApS - software consultancy services within the fintech and pension tech industry."
 
@@ -87,8 +87,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 20th, 2021"
 
-    logo = "img/TED_logo_alt.png"
-    logo_small = "img/TED_logo_alt.png"
+    logo = "img/freelogo1.png"
+    logo_small = "img/freelogo1.png"
     address = """<p class="text-uppercase"><strong>TED Consulting ApS</strong>
         <br>Tudskærvej 10
         <br>2720 Vanløse
