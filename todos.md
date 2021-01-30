@@ -8,9 +8,10 @@ Contact
 Images
 
 * [x] Fix logo-images - possible remove aliasing, and fix sizes (_improved a bit_)
-* [ ] Improve visuals of logo images
-* [ ] Make logo in scalable graphics
-* [ ] Consider making a smaller version of logo - possibly ask Lena to make it
+* [x] Improve visuals of logo images
+* [x] Make logo in scalable graphics
+* [x] Check out logos at freelogodesign.org - "exo" and "Fjalla one" seem nice fonts
+* [x] Consider making a smaller version of logo - possibly ask Lena to make it
 * [ ] Get professional me-picture w.o. soft-shell, etc.
 * [x] Possible slight improvement to current picture would be to add a white frame
     - something like:     
@@ -36,6 +37,9 @@ Other
 * [ ] Go to contact-button screams a bit.
 * [ ] Consider adding come customers/projects/portfolio/smth
 * [ ] From hstuart: "På contact-siden ville jeg sørge for at dit hoved-body laver fill så din footer altid er i bunden af siden og ikke står og flyver mærkeligt længere oppe"
+* [ ] Set up build and deploy pipeline, see https://www.andrewconnell.com/blog/automated-hugo-releases-with-azure-pipelines/ 
+* [ ] Is it necessary to add (c) 2021 - i.e., year to copyright?
+
 
 * [X] Top bar on contact page, also
 * [X] Mail on contact-page
