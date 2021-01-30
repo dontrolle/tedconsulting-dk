@@ -87,8 +87,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 20th, 2021"
 
-    logo = "img/logo6.svg"
-    logo_small = "img/logo6.svg"
+    logo = "img/logo6_wofont.svg"
+    logo_small = "img/logo6_wofont.svg"
     address = """<p class="text-uppercase"><strong>TED Consulting ApS</strong>
         <br>Tudskærvej 10
         <br>2720 Vanløse
