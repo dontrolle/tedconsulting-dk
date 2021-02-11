@@ -39,6 +39,7 @@ Other
 * [ ] From hstuart: "På contact-siden ville jeg sørge for at dit hoved-body laver fill så din footer altid er i bunden af siden og ikke står og flyver mærkeligt længere oppe"
 * [ ] Set up build and deploy pipeline, see https://www.andrewconnell.com/blog/automated-hugo-releases-with-azure-pipelines/ 
 * [ ] Is it necessary to add (c) 2021 - i.e., year to copyright?
+* [ ] Checkout https://stackoverflow.com/questions/33163202/how-to-include-simple-javascript-within-hugo for notes on how edits to template can be made substituted with overrides in, e.g, layouts.
 
 
 * [X] Top bar on contact page, also
