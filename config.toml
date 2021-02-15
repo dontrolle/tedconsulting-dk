@@ -1,6 +1,6 @@
 baseURL = "https://tedconsulting.dk/"
 languageCode = "en-us"
-title = "TED Consulting - by Troels Egede Damgaard - Consulting Chief Architect"
+title = "TED Consulting - by Troels Damgaard - Consulting Chief Architect"
 theme = "hugo-universal"
 
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -55,7 +55,7 @@ paginate = 10
     author = "Troels Damgaard"
     defaultKeywords = ["fintech", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader", "Copenhagen", "Denmark"]
     mainSections = ["blog"]
-    defaultDescription = "TED Consulting ApS - software consultancy services within the fintech and pension tech industry."
+    defaultDescription = "TED Consulting - software consultancy services within the fintech and pension tech industry."
 
     # Social media
     twitter_site = "dontrolle" # the Twitter handle of your site (without the '@')
@@ -89,7 +89,7 @@ paginate = 10
 
     logo = "img/logo6_wofont.svg"
     logo_small = "img/logo6_wofont.svg"
-    address = """<p class="text-uppercase"><strong>TED Consulting ApS</strong>
+    address = """<p class="text-uppercase"><strong>TED Consulting</strong>
         <br>Tudskærvej 10
         <br>2720 Vanløse
         <br>Denmark
