@@ -1,0 +1,6 @@
+@media (min-width: 349px) {
+    img.round-image {
+        box-shadow: 0 0 0 4px #fff;
+        border-radius: 75%;
+    }
+}
