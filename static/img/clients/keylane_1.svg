@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="87.669853mm"
+   height="25.281698mm"
+   viewBox="0 0 87.669853 25.281698"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="keylane_1.svg">
+  <defs
+     id="defs2">
+    <path
+       id="keylone-logo-a"
+       d="m 26.021332,21.284761 -5.465275,18.88004 18.687928,-18.886665 z m -25.02764569,0 L 14.8258,35.116874 19.1119,21.264887 Z M 0.72207872,19.853852 H 12.348209 l -2.9744348,-8.64507 z m 25.71660128,0 H 39.522217 L 29.419739,9.5460131 Z M 15.488257,5.0876739 19.588869,19.853852 24.007461,4.1536088 20.224829,0.3511025 Z" />
+    <radialGradient
+       id="keylone-logo-b"
+       cx="17.340385"
+       cy="15.652626"
+       r="13.637975"
+       fx="17.340385"
+       fy="15.652626"
+       gradientTransform="scale(0.98718916,1.0129771)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFCC07"
+         id="stop834" />
+      <stop
+         offset="34.43%"
+         stop-color="#F8AC08"
+         id="stop836" />
+      <stop
+         offset="59.51%"
+         stop-color="#F39208"
+         id="stop838" />
+      <stop
+         offset="82.55%"
+         stop-color="#D97511"
+         id="stop840" />
+      <stop
+         offset="100%"
+         stop-color="#CA6316"
+         id="stop842" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-11.752907"
+     inkscape:cy="40.707695"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1431"
+     inkscape:window-height="1208"
+     inkscape:window-x="256"
+     inkscape:window-y="256"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-115.67102,-47.079389)">
+    <g
+       fill="none"
+       fill-rule="evenodd"
+       transform="matrix(0.635,0,0,0.635,115.07788,46.528144)"
+       id="g874">
+      <polygon
+         fill="#727070"
+         fill-rule="nonzero"
+         points="60.277,32.626 54.997,18.324 54.997,32.626 51.181,32.626 51.181,4.392 54.997,4.392 54.997,17.953 60.277,4.392 64.133,4.392 58.416,18.449 64.583,32.626 "
+         id="polygon847" />
+      <g
+         fill="#727070"
+         fill-rule="nonzero"
+         transform="translate(64.424,1.49)"
+         id="g863">
+        <path
+           d="m 3.8091308,22.377816 c 0,1.570024 -0.07287,5.915745 2.2059837,5.915745 1.8681302,0 2.2126081,-2.060242 2.2126081,-3.524274 h 3.2592914 c 0,3.484527 -1.5369018,6.664323 -5.5050224,6.664323 -5.27978661,0 -5.76338061,-5.61764 -5.76338061,-9.618883 0,-3.855503 0.44384655,-9.890491 5.65738741,-9.890491 5.1274216,0 5.7236326,5.988616 5.7236326,9.890491 v 0.563089 z m 4.1933563,-2.510714 c 0,-1.457407 0,-4.789568 -2.1331133,-4.789568 -2.2126082,0 -2.060243,3.332161 -2.060243,4.789568 z"
+           id="path849" />
+        <rect
+           width="3.5239999"
+           height="31.076"
+           x="28.221001"
+           y="0.059999999"
+           id="rect851" />
+        <path
+           d="m 42.443654,28.704285 h -0.07287 c -0.708829,1.649519 -1.457406,2.729325 -3.484526,2.729325 -4.378845,0 -4.45834,-6.922681 -4.45834,-9.996484 0,-3.140049 0.112618,-9.51289 4.570957,-9.51289 1.64952,0 2.729325,1.01356 3.371909,2.398096 h 0.07287 v -2.093366 h 3.51765 v 18.906538 h -3.51765 z m 0.119243,-7.041924 c 0,-1.490529 0.145741,-6.584827 -2.212608,-6.584827 -2.623332,0 -2.325226,5.054551 -2.325226,6.584827 0,1.576649 -0.298106,6.6312 2.325226,6.6312 2.358349,0 2.212608,-5.127421 2.212608,-6.6312 m 10.181972,-7.260534 h 0.07287 c 0.410723,-0.7817 0.900942,-1.384536 1.497154,-1.79526 0.635959,-0.443847 1.384536,-0.675707 2.318601,-0.675707 3.742885,0 3.855503,3.332162 3.855503,6.213852 v 12.990792 h -3.51765 V 18.071842 c 0,-1.311666 -0.225235,-2.994308 -2.09999,-2.994308 -2.318601,0 -2.133113,2.663079 -2.133113,4.266226 v 11.791744 h -3.51765 V 12.228966 h 3.51765 v 2.172861 z m 14.037475,7.975989 c 0,1.570024 -0.07287,5.915745 2.205984,5.915745 1.874755,0 2.212608,-2.060242 2.212608,-3.524274 h 3.259291 c 0,3.484527 -1.536901,6.664323 -5.505022,6.664323 -5.279786,0 -5.76338,-5.61764 -5.76338,-9.618883 0,-3.855503 0.450471,-9.890491 5.650762,-9.890491 5.134046,0 5.730258,5.988616 5.730258,9.890491 v 0.563089 z m 4.193357,-2.510714 c 0,-1.457407 0,-4.789568 -2.133114,-4.789568 -2.205983,0 -2.060243,3.332161 -2.060243,4.789568 z"
+           id="path853" />
+        <polygon
+           points="19.344,24.325 16.727,12.229 12.792,12.229 15.694,24.325 "
+           id="polygon855" />
+        <polygon
+           points="19.344,24.325 14.885,38.893 18.595,38.893 26.306,12.229 22.755,12.229 "
+           id="polygon857" />
+        <polygon
+           points="19.344,24.325 16.727,12.229 12.792,12.229 15.694,24.325 "
+           id="polygon859" />
+        <polygon
+           points="19.344,24.325 14.885,38.893 18.595,38.893 26.306,12.229 22.755,12.229 "
+           id="polygon861" />
+      </g>
+      <g
+         transform="translate(0.212,0.517)"
+         id="g872">
+        <mask
+           id="keylone-logo-c"
+           fill="#ffffff">
+          <use
+             xlink:href="#keylone-logo-a"
+             id="use865"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </mask>
+        <use
+           fill="#ffffff"
+           fill-rule="nonzero"
+           xlink:href="#keylone-logo-a"
+           id="use868"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <polygon
+           fill="url(#keylone-logo-b)"
+           fill-rule="nonzero"
+           points="59.568,20.258 20.258,-19.046 -19.046,20.258 20.258,59.568 "
+           mask="url(#keylone-logo-c)"
+           id="polygon870"
+           style="fill:url(#keylone-logo-b)" />
+      </g>
+    </g>
+  </g>
+</svg>
