@@ -53,9 +53,9 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Troels Damgaard"
-    defaultKeywords = ["fintech", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader", "Copenhagen", "Denmark"]
+    defaultKeywords = ["fintech", "DeFi", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader", "Copenhagen", "Denmark"]
     mainSections = ["blog"]
-    defaultDescription = "TED Consulting - software consultancy services within the fintech and pension tech industry."
+    defaultDescription = "TED Consulting provides software consultancy services. Specializes in PensionTech, InsurTech, FinTech and DeFi."
 
     # Social media
     twitter_site = "dontrolle" # the Twitter handle of your site (without the '@')
@@ -81,7 +81,7 @@ paginate = 10
     formspree_action = "https://formspree.io/f/xgepdzwv"
     contact_form_ajax = true
 
-    about_us = "<p>Troels Damgaard provides software consultancy services based on more than 12 years experience in the fintech and pension tech industry.</p>"
+    about_us = "<p>Troels Damgaard provides software consultancy services - specializing in PensionTech, InsurTech, FinTech and DeFi.</p>"
     copyright = "Copyright TED Consulting ApS 2021, all rights reserved."
 
     # Format dates with Go's time formatting
