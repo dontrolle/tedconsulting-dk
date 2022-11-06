@@ -35,17 +35,23 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "LinkedIn"
-    url = "<a href='https://www.linkedin.com/in/troelsdamgaard/' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-linkedin'></i></a>"
+    url = "<a rel='me' href='https://www.linkedin.com/in/troelsdamgaard/' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-linkedin'></i></a>"
     pre = ""
 
 [[menu.topbar]]
     weight = 2
-    name = "Twitter"
-    url = "<a href='http://twitter.com/dontrolle' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-twitter'></i></a>"
+    name = "Mastodon"
+    url = "<a rel='me' href='https://mastodon.social/@dontrolle' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-mastodon'></i></a>"
     pre = ""
 
 [[menu.topbar]]
     weight = 3
+    name = "Twitter"
+    url = "<a rel='me' href='http://twitter.com/dontrolle' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-twitter'></i></a>"
+    pre = ""
+
+[[menu.topbar]]
+    weight = 4
     name = "Email"
     url = "<script type='text/javascript'>gen_social_mail('hello#tedconsulting.dk')</script>"
     pre = ""
