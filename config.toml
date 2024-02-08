@@ -34,24 +34,30 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 1
+    name = "GitHub"
+    url = "<a rel='me' href='https://github.com/dontrolle/' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-github'></i></a>"    
+    pre = ""
+
+[[menu.topbar]]
+    weight = 2
     name = "LinkedIn"
     url = "<a rel='me' href='https://www.linkedin.com/in/troelsdamgaard/' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-linkedin'></i></a>"
     pre = ""
 
 [[menu.topbar]]
-    weight = 2
+    weight = 3
     name = "Mastodon"
     url = "<a rel='me' href='https://mastodon.social/@dontrolle' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-mastodon'></i></a>"
     pre = ""
 
 [[menu.topbar]]
-    weight = 3
+    weight = 4
     name = "Twitter"
     url = "<a rel='me' href='http://twitter.com/dontrolle' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-twitter'></i></a>"
     pre = ""
 
 [[menu.topbar]]
-    weight = 4
+    weight = 5
     name = "Email"
     url = "<script type='text/javascript'>gen_social_mail('hello#tedconsulting.dk')</script>"
     pre = ""
@@ -88,7 +94,7 @@ paginate = 10
     contact_form_ajax = true
 
     about_us = "<p>Troels Damgaard provides software consultancy services - specializing in PensionTech, InsurTech, FinTech and DeFi.</p>"
-    copyright = "Copyright TED Consulting ApS 2020-2022, all rights reserved."
+    copyright = "Copyright TED Consulting ApS 2020-2024, all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 7th, 2022"
