@@ -94,7 +94,7 @@ paginate = 10
     contact_form_ajax = true
 
     about_us = "<p>Troels Damgaard provides software consultancy services - specializing in PensionTech, InsurTech, FinTech and DeFi.</p>"
-    copyright = "Copyright TED Consulting ApS 2020-2024, all rights reserved."
+    copyright = "Copyright TED Consulting ApS 2020-2025, all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 7th, 2022"
