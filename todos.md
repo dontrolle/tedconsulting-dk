@@ -31,7 +31,6 @@ Other
 * [x] Lesser white margin under red background
 * [ ] Consider removing header "Contact form" 
 * [x] Cookie-policy? (_As far as I can read, when I actually use no cookies, this is not necessary._)
-* [ ] Consider the header "Consulting Chief Architect" - does it actually say anything?
 * [ ] Rewrite gen_social_mail() to calling gen_mail_to_link()
 * [ ] Consider dropping lower header and use the colour for about/contact
 * [ ] Go to contact-button screams a bit.

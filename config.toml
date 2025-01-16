@@ -1,6 +1,6 @@
 baseURL = "https://tedconsulting.dk/"
 languageCode = "en-us"
-title = "TED Consulting - by Troels Damgaard - Consulting Chief Architect"
+title = "TED Consulting - by Troels Damgaard - Freelance CTO"
 theme = "hugo-universal"
 
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -65,7 +65,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Troels Damgaard"
-    defaultKeywords = ["fintech", "DeFi", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader", "Copenhagen", "Denmark"]
+    defaultKeywords = ["fintech", "DeFi", "freelance", "cto", "consulting", "software", "architect", "life", "pension", "cloud", "devops", "innovation", "leader", "Copenhagen", "Denmark"]
     mainSections = ["blog"]
     defaultDescription = "TED Consulting provides software consultancy services. Specializes in PensionTech, InsurTech, FinTech and DeFi."
 
