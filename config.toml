@@ -46,8 +46,8 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 3
-    name = "Mastodon"
-    url = "<a rel='me' href='https://mastodon.social/@dontrolle' target='_blank' style='opacity: 1;'><i class='fab fa-2x fa-mastodon'></i></a>"
+    name = "Bluesky"
+    url = "<a rel='me' href='https://bsky.app/profile/troelsdamgaard.dk' target='_blank' style='opacity: 1;'><i class='fa-brands fa-2x fa-bluesky'></i></a>"
     pre = ""
 
 [[menu.topbar]]
